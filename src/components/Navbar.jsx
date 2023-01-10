@@ -45,7 +45,7 @@ const Center = styled.div`
     `;
 
 const Logo = styled.h1`
-font-weight: bold;
+    font-weight: bold;
 `;
 const Right = styled.div`
     flex:1;
@@ -71,7 +71,7 @@ const Navbar = () => {
                 <Search style={{color:"gray", fontSize:16}}/>
             </SearchContainer>
         </Left>
-        <Center><Logo/>KHAN</Center>
+        <Center><Logo>KHAN</Logo></Center>
         <Right>
             <MenuItem>REGISTER</MenuItem>
             <MenuItem>SIGN IN</MenuItem>
