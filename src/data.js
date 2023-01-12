@@ -8,7 +8,7 @@ export const sliderItems =[
 },
 {
     id: 2,
-    img: "https://assets.ajio.com/medias/sys_master/root/20221117/k3qL/6375d6bdf997ddfdbd7fae30/-473Wx593H-462329145-green-MODEL.jpg",
+    img: "https://i.pinimg.com/736x/0a/e9/b2/0ae9b2deb67bd8bf612a51d03ba565d8.jpg",
     title:"WINTER SALE",
     desc: "DONT COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
     bg:"fcf1ed"
@@ -25,7 +25,7 @@ export const sliderItems =[
 export const categories = [
     {
         id: 1,
-        img: "https://assets.ajio.com/medias/sys_master/root/20221117/k3qL/6375d6bdf997ddfdbd7fae30/-473Wx593H-462329145-green-MODEL.jpg",
+        img: "https://i.pinimg.com/736x/0a/e9/b2/0ae9b2deb67bd8bf612a51d03ba565d8.jpg",
         title: "SHIRT STYLE"
     },
     {
@@ -35,7 +35,7 @@ export const categories = [
     },
     {
         id: 3,
-        img: "https://assets.ajio.com/medias/sys_master/root/20221117/k3qL/6375d6bdf997ddfdbd7fae30/-473Wx593H-462329145-green-MODEL.jpg",
+        img: "https://cdn.shopify.com/s/files/1/0752/6435/products/0E4A0809_1500x.jpg?v=1660050592",
         title: "SHORT SHIRT STYLE"
     },
 ];
@@ -43,7 +43,7 @@ export const categories = [
 export const popularProducts = [
     {
         id: 1,
-        img: "https://cdn.shopify.com/s/files/1/0752/6435/products/0E4A0809_1500x.jpg?v=1660050592",
+        img: "https://assets.ajio.com/medias/sys_master/root/20221117/k3qL/6375d6bdf997ddfdbd7fae30/-473Wx593H-462329145-green-MODEL.jpg",
     },
     {
         id: 2,
